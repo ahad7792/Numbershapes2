@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number shapes</string>
+    <string name="numbr_shapes">NUMBR SHAPES</string>
+    <string name="enter_a_number_below_to_find_out_if_it_is_a_triagular_number_or_square_number">Enter a number below to find out if it is a triagular number or square number</string>
+    <string name="test_number">Test Number</string>
+    <string name="put_your_number">Put your number</string>
+    <string name="number_shapes">NUMBER SHAPES</string>
+</resources>
